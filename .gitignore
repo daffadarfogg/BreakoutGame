@@ -1,0 +1,12 @@
+####################
+# Unreal Generated #
+####################
+Binaries/
+Content/StarterContent/
+Intermediate/
+Saved/
+
+###########################
+# Visual Studio Generated #
+###########################
+.vs/
