@@ -16,12 +16,16 @@ void APositionReporter::BeginPlay()
 {
 	Super::BeginPlay();
 	
+	//FString ActorName = GetOwner()->GetName();
+	//UE_LOG(LogTemp, Warning, TEXT("Position Report Reporting for %s!!!"), *ActorName);
+
 }
 
 // Called every frame
 void APositionReporter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+
 
 }
 
